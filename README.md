@@ -17,7 +17,7 @@
 ####h태그들의 속성을 초기화 시켯습니다, 제가 사용하는 방법이니 삭제하셔도 됩니다.
 <pre><code>h1,h2,h3,h4,h5,h6{font-size:1em;font-weight:normal}</code></pre>
 
-####폰트 설정입니다, 기본적인 body에 선언하고 나머지는 aria 폰트를 기본적으로 가지고 있어서 재선언 해줫습니다.(pre,code 엘리먼트 의 폰트는 설정하지 않았습니다.)
+####폰트 설정입니다, 기본적인 body에 선언하고 나머지는 arial 폰트를 기본적으로 가지고 있어서 재선언 해줫습니다.(pre,code 엘리먼트 의 폰트는 설정하지 않았습니다.)
 <pre><code>body,input,textarea,keygen,select,button{font:normal 12px/1.2 'Open Sans','Noto Sans',sans-serif}</code></pre>
 
 ####브라우저마다 기본적인 모양들이 들어가 있는 요소들의 모양을 조금 빼줫습니다.
