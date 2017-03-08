@@ -9,18 +9,3 @@ input,textarea,select,button{margin:0;padding:0;border-radius:0;color:#333;outli
 a:link,a:visited,a:hover,a:active{text-decoration:none}
 a,button,input[type='submit'],input[type='button'],input[type='reset']{border:0;background:transparent;cursor:pointer}
 img{border:0;vertical-align:top}
-
-/* global */
-.ellipsis{display:block;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;-o-text-overflow:ellipsis}
-.blind{color:transparent;font-size:0}
-.clearfix::after{display:block;content:'';clear:both}
-.ts,.ts::after,.ts::before{-o-transition:all 0.5s ease;-moz-transition:all 0.5s ease;-webkit-transition:all 0.5s ease;transition:all 0.5s ease}
-
-
-@media all and (max-width:1024px){
-
-}
-1
-@media all and (max-width:720px){
-
-}
