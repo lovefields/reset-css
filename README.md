@@ -1,6 +1,6 @@
 #reset css
 
-###기본적으로 하위브라우저는 무시합니다.
+###기본적으로 하위브라우저는 무시합니다.(CSS3)
 
 ####charset 선언
 <pre><code>@charset "utf-8";</code></pre>
