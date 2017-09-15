@@ -2,7 +2,7 @@
 
 <h3>기본적으로 하위브라우저는 무시합니다.(CSS3)</h3>
 
-<h4>charset 선언</h4>
+<h4>charset 선언 (선택사항)</h4>
 <pre><code>@charset "utf-8";</code></pre>
 
 <h4>엘리먼트들의 margin,padding,border 제거, HTML5에서 해당 속성이 있는 엘리먼트만 넣었습니다.</h4>
